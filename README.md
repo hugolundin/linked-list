@@ -1,2 +1,4 @@
-# linked-list
-A linked-list implementation inspired by an exercise in one of K V S Prasad's exams in the concurrent programming course at the University of Gothenburg and Chalmers University of Technology.
+# Linked List in Erlang using Message Passing
+
+This linked list implementation is based on an exam exercise written by K V S Prasad (Chalmers University of Technology). <br>
+It uses message passing to communicate between nodes in the list. 
